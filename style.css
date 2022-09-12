@@ -1,0 +1,42 @@
+#page{
+margin-top: 100px;
+}
+
+img{
+    width: 80px;
+    margin-top: 130px;
+}
+
+p{
+    font-size: 15px;
+   }
+
+h1{
+    padding-bottom: 150px;
+}
+
+i{
+    font-size: 18px;
+    color: rgb(227, 100, 121);
+    margin-right: 10px;
+ }
+
+ .Player1, .Player2{
+    font-weight: lighter;
+    margin-top: 100px;
+    font-size: 35px;
+    margin-bottom: 50px;
+    }
+
+    .score {
+        width  : 80px;
+        height : 80px;
+        background : rgb(226, 123, 149);
+        margin-top: 150px;
+        margin: 0 auto;
+     width: 100px;
+        }
+
+        .play{
+            margin-bottom: 150px;
+        }
